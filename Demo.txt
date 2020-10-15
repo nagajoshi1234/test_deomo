@@ -1,0 +1,16 @@
+hello simply learn come back and make commit
+
+
+git --version
+
+git help config
+
+mkdir test
+ cd test
+ git init
+
+git status
+
+git add demo.txt
+
+git commit -m 'commiting demo file 1st time'
